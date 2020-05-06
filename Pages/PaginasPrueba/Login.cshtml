@@ -7,3 +7,22 @@
 <br />
 <h1 class="text-info">Iniciar Sesión</h1>
 
+<div class="border">
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="container" style="padding:30px">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="Cliente.Nombre"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="Cliente.Nombre" class="form-control" />
+                    </div>
+                    <span asp-validation-for="Cliente.Nombre" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+

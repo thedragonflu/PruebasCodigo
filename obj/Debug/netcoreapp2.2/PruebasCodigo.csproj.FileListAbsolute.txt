@@ -32,3 +32,4 @@ C:\Users\erick\source\repos\PruebasCodigo\PruebasCodigo\obj\Debug\netcoreapp2.2\
 C:\Users\erick\source\repos\PruebasCodigo\PruebasCodigo\obj\Debug\netcoreapp2.2\PruebasCodigo.genruntimeconfig.cache
 C:\Users\erick\source\repos\PruebasCodigo\PruebasCodigo\obj\Debug\netcoreapp2.2\PruebasCodigo.csproj.CopyComplete
 C:\Users\erick\source\repos\PruebasCodigo\PruebasCodigo\obj\Debug\netcoreapp2.2\PruebasCodigo.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\PruebasCodigo\PruebasCodigo\obj\Debug\netcoreapp2.2\Razor\Pages\PaginasPrueba\Login.cshtml.g.cs
