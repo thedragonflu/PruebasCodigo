@@ -36,7 +36,7 @@ namespace PruebasCodigo.Pages.PaginasPrueba
 
             _db.Add(Cliente);
             await _db.SaveChangesAsync();
-            return RedirectToPage("Index");
+            return RedirectToPage("Login");
         }
     }
 }
